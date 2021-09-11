@@ -1,6 +1,6 @@
 [<img src="www/Ar.png" width= 200px height=150px
      alt="Kickstarter Data Visualization"
-/>](https://hwbao.shinyapps.io/info201_final/)
+/>]( https://yutianlei.shinyapps.io/Yutian-Kickstarer-Project/)
 ## Click the Logo to enter the website!
 
 # Project Description
