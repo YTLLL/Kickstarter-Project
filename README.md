@@ -4,7 +4,7 @@
 ## Click the Logo to enter the website!
 
 # Project Description
-Here is our GitHub repository.
+Here is our GitHub repository: https://github.com/YTLLL/Kickstarter-Project
 
 **What is the dataset you'll be working with?  Please include background on who collected the data, where you accessed it, and any additional information we should know about how this data came to be.**
 
